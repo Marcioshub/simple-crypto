@@ -1,1 +1,3 @@
-# WATCH TRANSACTIONS VIDEO 35
+# Simple Crypto
+
+## Simple cryptocurrency implementation using nodejs
